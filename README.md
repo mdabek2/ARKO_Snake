@@ -1,6 +1,6 @@
 
 
-# Snake Game in MIPS Assembly
+# Snake Game in MIPS Assembly 🐍
 
 ## Overview
 
