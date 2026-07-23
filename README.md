@@ -39,6 +39,9 @@ The game ends when the snake:
 - collides with its own body,
 - or the player exits the game.
 
+![](./Snake_asm.gif)
+
+
 ## Implementation Details
 
 The project is implemented entirely in **MIPS assembly** and uses dynamically allocated memory for storing the game board, snake body positions, game state variables (head position, tail position, fruit position, snake length).
